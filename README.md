@@ -1,13 +1,22 @@
-ICE Task6
-•	Name: [Lujia Xiao]
-•	Student Number: [ST10484117]
-•	Course: [MAST]
-•	Lecturer: [Jessel Sookha]
+# [WeatherApp]
+- **Developer**: [LujiaXiao]
+- **Student Number**: [ST10484117]
+- **Group**: [Group1 ]
+- **Course**: [CHAM]
+- **Subject**: [MAST]
+
+## Links
+- **GitHub Repository**: [https://github.com/ST10484117/ICE-Task6.git]
 
 
-This submission presents a static "now-playing" screen for a Lo-fi music player app, designed to immerse users with soft tones, rounded buttons, and muted colors, reflecting the genre's relaxed vibe. Developed using Visual Studio Code, the project incorporate
+---
 
 
-Links
-•	GitHub Repository: https://github.com/ST10484117/ICE-Task6.git
+## Screenshots
 
+### App Screenshots:
+![Screenshot 1](<img width="1912" height="1073" alt="Screenshot 2025-09-01 174150" src="https://github.com/user-attachments/assets/bb602860-17ea-47d4-9902-cb3b950030c0" />
+)
+
+
+---
